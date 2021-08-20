@@ -9,3 +9,5 @@ JSON フォーマットのデータを WEB より取得して利用( Google Gson
     ]
 }
 ```
+
+https://maven-badges.herokuapp.com/maven-central/com.google.code.gson/gson
