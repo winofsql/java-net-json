@@ -61,7 +61,7 @@ public class Main {
                 bw.write( String.format("%s\r\n",  row_data.手当 ) );
                 bw.write( String.format("%s\r\n",  row_data.管理者 ) );
                 bw.write( String.format("%s\r\n",  row_data.作成日 ) );
-                bw.write( String.format("%s\r\n",  row_data.更新日 ) );				
+                bw.write( String.format("%s\r\n",  row_data.更新日 ) );
             }
 
             bw.close();		// BufferedWriter
