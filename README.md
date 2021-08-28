@@ -30,3 +30,6 @@ for( Syain row_data : data ) {
     bw.write( String.format("%s\r\n",  row_data.更新日 ) );
 }
 ```
+
+## JSON 処理用 URL
+https://lightbox.sakura.ne.jp/demo/json/syain_json.php
